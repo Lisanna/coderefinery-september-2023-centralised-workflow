@@ -7,5 +7,5 @@ if [ "$answer" == "no" ]
 then
 	echo "This is bad, you better learn how to like them. They are very cute!"
 else
-	echo "Your rock, broccoli are cute!" # intentional typo here, to be corrected later (?)
+	echo "You rock, broccoli are cute!" 
 fi
